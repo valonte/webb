@@ -809,3 +809,9 @@ ul.cont li {
      width: 100%;
 }
 
+.about_us_img img{
+     width: 100%;
+	max-width: 300px;
+	max-height: 300px;
+	border-radius: 50%;
+}
